@@ -1,0 +1,4 @@
+//upload image and click on answer its give you on console of browser = condidtae>0 object>content>part> solution is here
+//ise store kr lent js me jaisejaa rhe h apiRequest
+
+The expression is:\n\n(x³ + ay² + bz) / (abx²)\n\nThis expression cannot be simplified further unless we have more information or constraints on the variables (x, y, z, a, b).  There are no like terms to combine, and no common factors in the numerator and denominator that can be canceled out.  The expression remains as:\n\n**x³/ (abx²) + ay²/(abx²) + bz/(abx²)**\n\nThis can be further simplified to:\n\n**x/(ab) + y²/(bx²) + z/(abx²)**\n\nTherefore, there's no single solution to the expression provided without additional context.  The result depends on the values of x, y, z, a, and b.\n"
